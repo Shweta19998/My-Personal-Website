@@ -1,0 +1,110 @@
+.top-container {
+  background-color: rgb(204, 235, 225);
+  padding: 20px;
+  padding-top: 100px;
+}
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+}
+h1 {
+  color: rgb(74, 148, 161);
+  margin: 0px auto;
+  width: 50%;
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+}
+p {
+  color: rgb(5, 0, 0);
+  font-weight: bold;
+}
+hr {
+  border: 5px 0 0 0;
+  border-style: dotted;
+  border-bottom: none;
+  color: grey;
+  margin: 50px auto;
+
+  width: 7%;
+  border-width: 5px;
+}
+h2 {
+  color: rgb(31, 63, 75);
+  font-family: "Sacramento", cursive;
+  font-size: 2rem;
+}
+
+h3 {
+  color: rgb(55, 101, 107);
+  font-family: "Dancing Script", cursive;
+  font-size: 2.5rem;
+}
+.middle-container {
+  background-color: rgb(243, 228, 209);
+}
+.bottom-container {
+  background-color: rgb(206, 206, 206);
+  padding: 20px 0;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 200px;
+}
+.top-cloud {
+  position: absolute;
+  top: 60px;
+  left: 1000px;
+}
+.Shweta_PicCSS {
+  color: black;
+  box-shadow: 3px 3px;
+  border-radius: 50%;
+  margin-top: 40px;
+  width: 15%;
+}
+.skill-row {
+  width: 40%;
+  text-align: left;
+  padding-bottom: 1px;
+  margin: 100px auto 100px auto;
+}
+.Web-Programming {
+  width: 25%;
+  float: left;
+  padding-right: 50px;
+}
+.dancer {
+  width: 15%;
+  float: right;
+  margin-bottom: 10px;
+}
+.btn {
+  border-style: double;
+  color: antiquewhite;
+  background-color: black;
+  height: 40px;
+  width: 100px;
+  border-radius: 50%;
+  font-family: "Sacramento", cursive;
+  font-size: 28px;
+}
+.btn:hover {
+  text-shadow: 2px 2px 5px white;
+  box-shadow: 5px 5px 5px rgb(143, 140, 140);
+}
+.footer-link {
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  color: rgb(49, 49, 49);
+  font-weight: 800;
+}
+.footer-link:hover {
+  color: white;
+  font-size: 20px;
+}
+.copy-right {
+  font-size: 15px;
+  color: white;
+}
